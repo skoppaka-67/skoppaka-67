@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Kiran
 - 👀 I’m interested in Web devlopment 
-- 🌱 I’m currently learning Sanic(Async web server)
+- 🌱 I’m currently learning Angular
 - 📫 Drop a mail @ saikiran.koppaka@gmail.com
 
 <!---
